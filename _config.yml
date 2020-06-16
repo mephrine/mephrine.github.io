@@ -1,12 +1,13 @@
+# Site settings
 title: 메프린의 블로그
-description: 메프린의 블로그입니다.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mephrine.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+description: 메프린의 순간순간
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Mephrine
-user_description: 메프린니다
-user_title: iOS 개발자
+user_description: 앱 개발 및 기타 등등의 취미를 담는 블로그
+user_title: iOS 개발
 email: dthwrld@gmail.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
